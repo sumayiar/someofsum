@@ -1,3 +1,5 @@
+Site: https://sumayiar.github.io/someofsum/
+
 Welcome to my personal webpage, where I'll be sharing personal snippets of my life.
 
 Blogs, reviews, pictures, and more!
