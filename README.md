@@ -4,6 +4,6 @@ Welcome to my personal webpage, where I'll be sharing personal snippets of my li
 
 Blogs, reviews, pictures, and more!
 
-As an avid Pinterest user, I decided to make my own web-board!
+As an avid Pinterest user and NYC explorer, I decided to make my own web-board!
 
 Reach out to me on my LinkedIn: www.linkedin.com/in/sumayia-rashid
