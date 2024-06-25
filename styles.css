@@ -42,16 +42,19 @@ nav a:hover {
     margin-top: 20px;
 }
 
-.footer {
-    background-color: #333; /* Dark background color for footer */
-    color: #fff; /* White text color */
-    padding: 10px 0;
+figure {
+    margin: 20px 0;
     text-align: center;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
 
-.footer p {
-    margin: 0;
+figure img {
+    max-width: 100%; /* Ensures the image does not exceed the width of its container */
+    height: auto; /* Maintains the image's aspect ratio */
+    display: block; /* Ensures the image is treated as a block element */
+    margin: 0 auto; /* Centers the image horizontally */
+}
+
+figcaption {
+    font-style: italic;
+    color: #888;
 }
